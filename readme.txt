@@ -1,3 +1,3 @@
 Git is a version control system.
-Git is a free sofware.
+Git is free sofware.
 add one sentense.
