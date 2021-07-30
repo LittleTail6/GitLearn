@@ -3,3 +3,5 @@ Git is free sofware.
 add one sentense.
 hhhh
 Git tracks changes of files.
+make a diff
+
